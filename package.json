@@ -1,0 +1,25 @@
+{
+  "name": "ebay",
+  "version": "1.0.0",
+  "description": "\"# ebay\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ash5021314/ebay.git"
+  },
+  "author": "Ashot Poghosyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ash5021314/ebay/issues"
+  },
+  "homepage": "https://github.com/Ash5021314/ebay#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
