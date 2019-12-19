@@ -4,7 +4,7 @@
   "description": "\"# ebay\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.tsx"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/Ash5021314/ebay#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "@types/node": "^12.12.20",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
